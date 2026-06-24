@@ -154,13 +154,13 @@ Choose Operation
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/SauravF023/StudentManangementSystem.git
 ```
 
 ### Step 2: Navigate to Project
 
 ```bash
-cd Student-Management-System
+cd StudentManagementSystem
 ```
 
 ### Step 3: Compile

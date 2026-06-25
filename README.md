@@ -8,7 +8,7 @@ A console-based Student Management System developed in Java using Object-Oriente
 
 The Student Management System is designed to demonstrate the practical implementation of Java programming concepts including:
 
-* Object-Oriented Programming (OOP)
+* Object-Oriented Programming (OOPS)
 * Encapsulation
 * Classes and Objects
 * Constructors
